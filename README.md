@@ -4,11 +4,12 @@
 
 ---
 
-## 🔬 Zainteresowania badawcze
-- Genomika i bioinformatyka bakterii
-- Analiza danych z sekwencjonowania
+## 🔬 Zainteresowania badawcze:
+- Genetyka
+- Genomika i Bioinformatyka
+- Biologia molekularna
+- Analiza danych
 - Zastosowania narzędzi takich jak R, Python, i Linux
-- ciągłe poszerzanie swojej wiedzy 
 
 ---
 
